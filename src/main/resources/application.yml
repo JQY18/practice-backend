@@ -1,0 +1,4 @@
+spring.application.name: interm-practice-backend
+server:
+  port: 8080
+
